@@ -11,6 +11,7 @@ namespace AnotherFirstCommitOnGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub (again)!!!");
+            Console.WriteLine("This is second brunch");
             Console.ReadKey();
         }
     }
